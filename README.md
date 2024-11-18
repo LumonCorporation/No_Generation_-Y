@@ -3,7 +3,7 @@
 <h1> No Generation -Y </h1>
 Убирает генерацию ниже Y=0 в верхнем мире<br><br>
 
-![Performance](https://cdn.modrinth.com/data/PZVhN4D0/images/5a2f5e82a8e5f54c00a1f2131c878f661289d879.png)<br>
+![Performance](https://github.com/LumonCorporation/No_Generation_-Y/blob/main/files/No_Generation_-Y.png)<br>
 </div>
 
 ### Применения
